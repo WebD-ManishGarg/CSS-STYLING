@@ -1,0 +1,70 @@
+body{
+  font-family: 'Roboto', sans-serif;
+
+
+}
+.nav12{
+  height:4rem;
+  width:38rem;
+  margin-left: -2rem;
+
+
+}
+p{
+  font-size:0.9rem;
+}
+#first{
+  padding-top: 7rem;
+}
+.nav_item{
+  padding: 1.5rem;
+}
+#james{
+  margin-top: -2rem;
+}
+.strong{
+    border-bottom: 1px solid grey;
+}
+div h3{
+  text-shadow: black 1px 0 4px;
+}
+.tab{
+  border:1px solid grey;
+  padding-top: 2rem;
+
+   
+}
+div.col{
+  height:3rem;
+  margin-top:1rem;
+  padding-top:1rem;
+}
+
+.col .tab_item{
+  padding-top:0.5rem;
+}
+.chip #chip_item{
+  padding-bottom:4rem;
+}
+.chip i{
+
+  margin-left:-0.8rem;
+}
+#last{
+
+
+
+  margin-top: 3rem;
+
+  /* padding-top: 1rem; */
+}
+
+#icons{
+  margin-left: 1rem;
+  border:1px solid grey;
+  border-radius: 20%;
+}
+#icons i{
+  padding: 0.5rem;
+
+}
